@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Courses">
-  <ConnectionProperties>
-    <Extension>SQL</Extension>
-    <ConnectString>Data Source=.;Initial Catalog=SSIS_ITI_DB</ConnectString>
-  </ConnectionProperties>
-  <DataSourceID>cdb4ebcd-4976-41ac-97fc-a05fe6017d0d</DataSourceID>
-</RptDataSource>
